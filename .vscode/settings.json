@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "thievesDB",
+            "connectString": "postgres://ovgyokai:pfsf2j-T8hXfyKfnPFaRq_jfKISP-m56@bubble.db.elephantsql.com/ovgyokai"
+        }
+    ]
+}
