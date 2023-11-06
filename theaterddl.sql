@@ -13,7 +13,7 @@ CREATE TABLE ticket (
 CREATE TABLE movie (
     id SERIAL PRIMARY KEY,
     title VARCHAR(255),
-    genre VARCHAR(255),\
+    genre VARCHAR(255),
     FOREIGN KEY (movie_id) REFERENCES movie(id),
 )
 CREATE TABLE customer_order (
